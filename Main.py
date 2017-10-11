@@ -73,7 +73,7 @@ def main():
 
     # end if else
 
-    cv2.waitKey(0)					# hold windows open until user presses a key
+    #cv2.waitKey(0)					# hold windows open until user presses a key
 
     return
 # end main
